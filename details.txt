@@ -1,0 +1,3 @@
+username	: TrainingCenterApp
+password	: root
+email		: aman.ipec2020@gmail.com
